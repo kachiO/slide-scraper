@@ -8,8 +8,8 @@ dependencies = [
     "numpy>=2.2.1",
     "opencv-python>=4.10.0.84",
     "pillow>=11.0.0",
-    "pytube>=15.0.0",
     "reportlab>=4.2.5",
     "ruff>=0.8.4",
     "scipy>=1.14.1",
+    "yt-dlp>=2024.12.23",
 ]
